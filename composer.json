@@ -1,0 +1,21 @@
+{
+  "name": "subbysnake/lorum",
+  "description": "Sample text generator using lorumipse.hu webpage.",
+  "keywords": ["lorem ipsum", "sample text", "text", "lorumipse.hu"],
+  "type": "package",
+  "license": "MIT",
+  "homepage": "https://github.com/subbysnake/Lorum",
+  "authors": [
+    {
+      "name": "Szabolcs Surányi",
+      "email": "szabolcs.suranyi@shadesoft.hu",
+      "homepage": "http://shadesoft.hu"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "SubbySnake\\Lorum\\": "" }
+  },
+  "require": {
+    "php": ">=5.3"
+  }
+}
