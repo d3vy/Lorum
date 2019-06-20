@@ -2,4 +2,4 @@
 
 include 'Generator.php';
 
-echo \SubbySnake\Lorum\Generator::get();
+echo \d3vy\Lorum\Generator::get();

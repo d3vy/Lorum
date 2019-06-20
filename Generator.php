@@ -1,6 +1,6 @@
 <?php
 
-namespace SubbySnake\Lorum;
+namespace d3vy\Lorum;
 
 class Generator {
     const

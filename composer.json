@@ -1,10 +1,10 @@
 {
-  "name": "subbysnake/lorum",
+  "name": "d3vy/lorum",
   "description": "Sample text generator using lorumipse.hu webpage.",
   "keywords": ["lorem ipsum", "sample text", "text", "lorumipse.hu"],
   "type": "package",
   "license": "MIT",
-  "homepage": "https://github.com/subbysnake/Lorum",
+  "homepage": "https://github.com/d3vy/Lorum",
   "authors": [
     {
       "name": "Szabolcs Surányi",
@@ -13,7 +13,7 @@
     }
   ],
   "autoload": {
-    "psr-4": { "SubbySnake\\Lorum\\": "" }
+    "psr-4": { "d3vy\\Lorum\\": "" }
   },
   "require": {
     "php": ">=5.3"

@@ -8,7 +8,7 @@ Open a command console, enter your project directory and execute the
 following command to download the latest stable version of this bundle:
 
 ```console
-$ composer require subbysnake/lorum
+$ composer require d3vy/lorum
 ```
 
 This command requires you to have Composer installed globally, as explained
@@ -18,5 +18,5 @@ of the Composer documentation.
 ## Usage
 
 ```php
-echo \SubbySnake\Lorum\Generator::get();
+echo \d3vy\Lorum\Generator::get();
 ```
